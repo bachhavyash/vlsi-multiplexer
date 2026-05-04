@@ -1,6 +1,6 @@
 // ============================================================
 // Project   : 2:1 and 4:1 Multiplexer
-// Author    : Yashganesh Bachhav
+// Author    : Yash Ganesh Bachhav
 // College   : LGNSCOE, Nashik (SPPU)
 // Domain    : VLSI Design | Verilog HDL
 // ============================================================
