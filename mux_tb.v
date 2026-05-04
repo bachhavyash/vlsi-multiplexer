@@ -20,7 +20,7 @@ module mux_tb;
 
     initial begin
         $display("====================================================");
-        $display(" MUX Simulation — Yashganesh Bachhav");
+        $display(" MUX Simulation ");
         $display("====================================================");
 
         // --- 2:1 MUX ---
